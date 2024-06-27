@@ -1,4 +1,5 @@
 # AdmiXion
+Este es una aplicación DEMO para cualquier tipo de negocio para: Escuelas, Hospitales, Restaurante, etc. Con el objetivo de que el usuario pueda tener accesibilidad a los datos en tiempo real y sobre todo tener una buena estadística para la toma de decisiones. VIVA MÉXICO.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
 
@@ -25,3 +26,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+# admi-xion
