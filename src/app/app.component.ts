@@ -7,7 +7,6 @@ import { SpinnerComponent } from './shared/spinner/spinner.component';
   standalone: true,
   imports: [RouterOutlet, SpinnerComponent],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.scss'
 })
 export class AppComponent {
   title = 'admi-xion';
